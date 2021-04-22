@@ -1,2 +1,4 @@
 config:
-  prod---9999
+  lck:
+    info:
+      test---9988
