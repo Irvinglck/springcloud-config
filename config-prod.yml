@@ -1,2 +1,4 @@
 config:
-  prod---8800
+  lck:
+    info:
+      prod---9999
